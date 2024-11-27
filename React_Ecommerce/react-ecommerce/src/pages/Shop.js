@@ -47,7 +47,7 @@ function Shop() {
                   </span>
                 </Link>
               </div> 
-              <Product/>
+              
               <div className="col-12 col-md-4 col-lg-3 mb-5">
                 <Link className="product-item" to="/cart">
                   <img src="/assets/images/product-1.png" className="img-fluid product-thumbnail" alt="Product" />
